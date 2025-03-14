@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm Wendiblac! 🚀  
-🔹 **DevSecOps Enthusiast** | 🖥️ **Cloud Practitioner** | 🌍 **Tech Explorer** | **Cybersecurity Engineer**
-
-# 💻 Wendy Amadi |  🚀  
+🔹 **DevSecOps Enthusiast** | 🖥️ **Cloud Practitioner** | 🌍 **Tech Explorer** | 💻 **Cybersecurity Engineer**
+  
 I'm a **DevOps, Cloud, and Cybersecurity Engineer** passionate about **automation, security, and scalable cloud solutions**. With expertise in **AWS, Kubernetes, Terraform, CI/CD, and DevSecOps**, I integrate security best practices into **cloud infrastructure and development workflows**.  
 
 📍 **Currently:** Pursuing **Associate Degrees in Cloud Engineering & Cybersecurity at Altschool Africa**  
