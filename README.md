@@ -32,25 +32,12 @@ I'm a **DevOps, Cloud, and Cybersecurity Engineer** passionate about **automatio
 
 ---
 
-## 🔥 Featured Projects  
-
-### 🚀 [Cloud Infrastructure Automation](https://github.com/your-repo)  
-Built a **secure, scalable AWS infrastructure** using Terraform and Ansible, integrated with **CI/CD pipelines for automated deployments**.  
-
-### 🔒 [DevSecOps Security Pipeline](https://github.com/your-repo)  
-Implemented a **GitHub Actions-based security pipeline**, integrating **static code analysis, vulnerability scanning, and compliance enforcement**.  
-
-### 📡 [Threat Detection System](https://github.com/your-repo)  
-Developed a **SIEM-based security automation system** for **real-time threat monitoring and log analysis** using **Splunk and ELK Stack**.  
-
----
-
 ## 📌 Connect with Me  
 
-🌐 **Portfolio:** [Your Website](https://yourwebsite.com)  
-🐦 **Twitter:** [@wendiblac](https://twitter.com/yourhandle)  
-💼 **LinkedIn:** [Wendy Amadi](https://linkedin.com/in/yourprofile)  
-📧 **Email:** [Your Email](mailto:your-email@example.com)  
+🌐 **Portfolio:** [Your Website](https://wendiblac.com)  
+🐦 **Twitter:** [@wendiblac](https://twitter.com/wendiiblac)  
+💼 **LinkedIn:** [Wendy Amadi](https://linkedin.com/in/wendiblac)  
+📧 **Email:** [Your Email](mailto:wendiblac@gmail.com)  
 
 ---
 
