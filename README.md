@@ -34,7 +34,7 @@ I'm a **DevOps, Cloud, and Cybersecurity Engineer** passionate about **automatio
 
 ## 📌 Connect with Me  
 
-🌐 **Portfolio:** [Your Website](https://wendiblac.com)  
+🌐 **Portfolio:** [wendiblac.com](https://wendiblac.com)  
 🐦 **Twitter:** [@wendiblac](https://twitter.com/wendiiblac)  
 💼 **LinkedIn:** [Wendy Amadi](https://linkedin.com/in/wendiblac)  
 📧 **Email:** [Your Email](mailto:wendiblac@gmail.com)  
