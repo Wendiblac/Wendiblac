@@ -1,13 +1,12 @@
 <h1 align="center">Hi there, I'm Wendy 👋</h1>
-<p align="center">🚀 DevOps Engineer & Cybersecurity | Cloud-Native Enthusiast | DevSecOps/p>
+<p align="center">🚀 DevOps Engineer & Cybersecurity | Cloud-Native Enthusiast | DevSecOps </p>
 
 ---
 
 🌍 Based in Ghana  
 💼 Currently open to remote opportunities  
-📧 Reach me at: [wendiblac.dev](https://wendiblac.dev)  
-🛠️ Working on: Cloud-native web apps & DevSecOps projects  
-🎯 Motto: *"Code it. Ship it. Scale it."*
+📧 Reach me at: [wendiblac.dev](https://wendiblac.com)  
+🛠️ Working on: Cloud-native web apps & DevOps projects  
 
 ---
 
