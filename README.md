@@ -5,7 +5,7 @@
 
 🌍 Based in Ghana  
 💼 Currently open to remote opportunities  
-📧 Reach me at: [wendiblac.dev](https://wendiblac.com)  
+📧 Reach me at: [wendiblac.com](https://wendiblac.com)  
 🛠️ Working on: Cloud-native web apps & DevOps projects  
 
 ---
