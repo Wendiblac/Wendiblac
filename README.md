@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Wendy 👋</h1>
-<p align="center">🚀 Cloud Engineer | DevOps | Cloud-Native Enthusiast | DevSecOps </p>
+<p align="center">🚀  DevOps | Cloud-Native Enthusiast | Web Developer </p>
 
 ---
 
