@@ -5,8 +5,7 @@
 
 🌍 Based in **Ghana**  
 💼 Open to **remote opportunities**  
-📧 Reach me at: [wendiblac.com](https://wendiblac.com)  
-🛠️ Currently building: **Cloud-native apps & DevOps automation pipelines**  
+📧 Reach me at: [wendiblac.com](https://wendiblac.com/contact)  
 
 ---
 
@@ -45,7 +44,7 @@
 ---
 
 ### 🧠 Fun Fact
-I love turning complex infrastructure challenges into elegant, automated solutions — and making them look good along the way 🚀✨  
+I love turning complex infrastructure challenges into elegant, automated solutions and making them look good along the way 🚀✨  
 
 ---
 
