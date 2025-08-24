@@ -38,19 +38,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wendiblac&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendiblac&theme=github-dark&hide_border=true" width="48%" />
-<div style="display: flex; align-items: center;">
-  <!-- Pie Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendiblac&layout=pie&theme=github_dark&hide_border=true" width="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendiblac&layout=pie&theme=github_dark&hide_border=true" width="40%" />
 
-  <!-- Auto-updating Legend with Shields.io -->
-  <div style="margin-left: 20px;">
-    <img src="https://img.shields.io/github/languages/top/wendiblac/wendiblac?style=for-the-badge&logo=javascript&color=blue" />
-    <br>
-    <img src="https://img.shields.io/github/languages/count/wendiblac?style=for-the-badge&logo=typescript&color=purple" />
-    <br>
-    <img src="https://img.shields.io/github/languages/code-size/wendiblac/wendiblac?style=for-the-badge&logo=python&color=green" />
-  </div>
-</div>
 
 </p>
 
