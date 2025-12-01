@@ -45,11 +45,6 @@
 
 ---
 
-### 🧠 Fun Fact
-I love turning complex infrastructure challenges into elegant, automated solutions and making them look good along the way 🚀✨  
-
----
-
 📌 **Let’s Connect**  
 
 🌐 **Portfolio:** [wendiblac.com](https://wendiblac.com)  
